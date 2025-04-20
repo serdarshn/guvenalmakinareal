@@ -1,0 +1,178 @@
+{
+  "header": {
+    "products": "Products",
+    "secondHand": "Second Hand",
+    "spareParts": "Spare Parts",
+    "accessories": "Accessories",
+    "campaigns": "Campaigns",
+    "contact": "Contact",
+    "eCatalog": "E-Catalog",
+    "about": "About Us",
+    "career": "Career",
+    "service": "Service",
+    "sales": "Sales",
+    "social": "Social Media",
+    "language": "Language",
+    "corporate": "Corporate",
+    "guvenaShop": "Güvenal Shop",
+    "contactUs": "Contact Us",
+    "productCategories": "Product Categories",
+    "homePage": "Home Page"
+  },
+  "productCategories": {
+    "cncDoubleColumn": "CNC Double Column Vertical Machining Center",
+    "edmMachines": "EDM Machines",
+    "millingMachines": "Mold Milling Machines"
+  },
+  "footer": {
+    "companyInfo": "Company Information",
+    "products": "Products",
+    "contactUs": "Contact Us",
+    "allRightsReserved": "All Rights Reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "companyDesc": "Since 1983, we have been offering pioneering solutions in the industrial machinery sector. With our principles of quality and reliability, we provide the best service to our customers.",
+    "quickLinks": "Quick Links",
+    "corporate": "Corporate",
+    "ourProducts": "Our Products",
+    "secondHand": "Second Hand",
+    "spareParts": "Spare Parts",
+    "career": "Career",
+    "contact": "Contact",
+    "address": "Industrial Zone, 1st Street No: 123 34555 Istanbul / Turkey",
+    "phone": "+90 (212) 123 45 67",
+    "email": "info@guvenalmakina.com",
+    "workingHours": "Working Hours",
+    "mondayToFriday": "Monday - Friday",
+    "saturday": "Saturday",
+    "time1": "09:00 - 18:00",
+    "time2": "09:00 - 14:00",
+    "accessibilityStatement": "Accessibility Statement"
+  },
+  "home": {
+    "hero": {
+      "title": "Industrial Machinery Solutions",
+      "subtitle": "Serving you with over 40 years of experience"
+    },
+    "cta": {
+      "contactUs": "Contact Us",
+      "viewProducts": "View Products"
+    }
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "apply": "Apply",
+    "send": "Send"
+  },
+  "heroSlider": {
+    "companyName": "GUVENAL MACHINERY",
+    "headline1": "The Future of Manufacturing",
+    "headline2": "is Shaped by Güvenal",
+    "description": "Meet Güvenal Machinery, the powerful representative of the industrial revolution in Turkey, and make a difference in production! As Güvenal Machinery, we offer reliable and innovative solutions in the machining industry. With over 40 years of experience, we analyze our customers' needs in depth and develop the most suitable solutions.",
+    "exploreProducts": "Explore Our Products",
+    "contactUs": "Contact Us",
+    "productDetails": "Click for product details.",
+    "productShowcase": "Product Showcase",
+    "slide1": {
+      "title": "Industrial Solutions",
+      "subtitle": "Mold Milling Machines",
+      "description": "High-quality industrial machines for your modern production needs."
+    },
+    "slide2": {
+      "title": "Professional Equipment",
+      "subtitle": "EDM Machines",
+      "description": "Solutions designed for maximum efficiency in industrial production."
+    },
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  },
+  "brandSlider": {
+    "ourBrands": "Our Brands"
+  },
+  "careerSection": {
+    "title": "Career",
+    "titleHighlight": "Opportunities",
+    "description": "Learn about career opportunities and open positions at Güvenal Machinery",
+    "viewPositions": "View Open Positions",
+    "imageAlt": "Career Opportunities",
+    "benefits": {
+      "development": {
+        "title": "Continuous Growth",
+        "description": "Professional development programs and training opportunities"
+      },
+      "environment": {
+        "title": "Dynamic Environment",
+        "description": "Innovative and technology-focused work culture"
+      },
+      "benefits": {
+        "title": "Social Benefits",
+        "description": "Competitive salary and comprehensive benefits package"
+      },
+      "teamwork": {
+        "title": "Team Spirit",
+        "description": "Supportive and collaborative work environment"
+      }
+    }
+  },
+  "corporateSection": {
+    "title": "Güvenal Machinery –",
+    "titleHighlight": "The Powerful Brand of Güvenal Group",
+    "description1": "Güvenal Machinery is a brand operating under Güvenal Group, offering pioneering solutions in the machine tools sector. With our experience of more than 40 years and our expert team of 150 people, we provide high quality, innovative technology and efficient solutions to industrial production.",
+    "description2": "For 22 years, we have been increasing our customers' production power by selling universal machine tools and CNC machines. We provide uninterrupted service to our customers not only during the sales process, but also with 24/7 technical service support and original spare parts supply.",
+    "stats": {
+      "experience": {
+        "value": "40+",
+        "label": "Years of Experience"
+      },
+      "team": {
+        "value": "150+",
+        "label": "Expert Team"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Technical Support"
+      }
+    },
+    "imageAlt": "Güvenal Machinery",
+    "features": {
+      "team": {
+        "title": "Expert Team of 150",
+        "description": "Strong production capacity with an expert team of 150 people"
+      },
+      "experience": {
+        "title": "22 Years of Experience",
+        "description": "22 years of experience in universal machine tools and CNC machines"
+      },
+      "service": {
+        "title": "Uninterrupted Service",
+        "description": "24/7 technical service support and spare parts supply"
+      }
+    },
+    "cta": "Power up your production with Güvenal Machinery, move forward with confidence!"
+  },
+  "productsSection": {
+    "title": "Product",
+    "titleHighlight": "Categories",
+    "description": "We are at your service with our wide range of products for your industrial machinery needs",
+    "allCategories": "All Categories",
+    "cncMachiningCenters": "CNC Vertical Machining Centers",
+    "edmMachines": "EDM Machines",
+    "moldMillingMachines": "Mold Milling Machines",
+    "universalMillingMachines": "Universal Mold Milling Machines",
+    "ramTypeUniversalMill": "Ram Type Universal Mill",
+    "grindingMachines": "Grinding Machines",
+    "lathes": "Lathes",
+    "benchtopLathes": "Benchtop Lathes",
+    "radialDrills": "Radial Drilling Machines",
+    "columnDrills": "Geared & Belt Drive Column Drills",
+    "bandSaws": "Band Sawing Machines",
+    "tappingMachines": "Tapping Machines",
+    "machineAccessories": "Machine Accessories",
+    "viewDetails": "View Details",
+    "emptyCategory": "There are no products in this category",
+    "viewAllProducts": "View All Our Products"
+  }
+} 

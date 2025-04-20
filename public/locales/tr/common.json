@@ -1,0 +1,178 @@
+{
+  "header": {
+    "products": "Ürünler",
+    "secondHand": "İkinci El",
+    "spareParts": "Yedek Parçalar",
+    "accessories": "Aksesuarlar",
+    "campaigns": "Kampanyalar",
+    "contact": "İletişim",
+    "eCatalog": "E-Katalog",
+    "about": "Hakkımızda",
+    "career": "Kariyer",
+    "service": "Servis",
+    "sales": "Satış",
+    "social": "Sosyal Medya",
+    "language": "Dil",
+    "corporate": "Kurumsal",
+    "guvenaShop": "Güvenal Shop",
+    "contactUs": "Bize Ulaşın",
+    "productCategories": "Ürün Kategorileri",
+    "homePage": "Ana Sayfa"
+  },
+  "productCategories": {
+    "cncDoubleColumn": "CNC Double Kolon Dik İşleme Merkezi",
+    "edmMachines": "Dalma Erozyon Tezgahları",
+    "millingMachines": "Kalıpçı Freze Tezgahları"
+  },
+  "footer": {
+    "companyInfo": "Firma Bilgileri",
+    "products": "Ürünler",
+    "contactUs": "Bize Ulaşın",
+    "allRightsReserved": "Tüm Hakları Saklıdır",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfUse": "Kullanım Koşulları",
+    "companyDesc": "1983'ten beri endüstriyel makina sektöründe öncü çözümler sunuyoruz. Kalite ve güvenilirlik ilkelerimizle müşterilerimize en iyi hizmeti sağlıyoruz.",
+    "quickLinks": "Hızlı Linkler",
+    "corporate": "Kurumsal",
+    "ourProducts": "Ürünlerimiz",
+    "secondHand": "İkinci El",
+    "spareParts": "Yedek Parça",
+    "career": "Kariyer",
+    "contact": "İletişim",
+    "address": "Organize Sanayi Bölgesi, 1. Cadde No: 123 34555 İstanbul / Türkiye",
+    "phone": "+90 (212) 123 45 67",
+    "email": "info@guvenalmakina.com",
+    "workingHours": "Çalışma Saatleri",
+    "mondayToFriday": "Pazartesi - Cuma",
+    "saturday": "Cumartesi",
+    "time1": "09:00 - 18:00",
+    "time2": "09:00 - 14:00",
+    "accessibilityStatement": "Erişilebilirlik"
+  },
+  "home": {
+    "hero": {
+      "title": "Endüstriyel Makina Çözümleri",
+      "subtitle": "40 yılı aşkın tecrübe ile hizmetinizdeyiz"
+    },
+    "cta": {
+      "contactUs": "Bizimle İletişime Geçin",
+      "viewProducts": "Ürünleri İncele"
+    }
+  },
+  "buttons": {
+    "learnMore": "Detaylı Bilgi",
+    "viewAll": "Tümünü Gör",
+    "apply": "Başvur",
+    "send": "Gönder"
+  },
+  "heroSlider": {
+    "companyName": "GÜVENAL MAKİNA",
+    "headline1": "Üretimin Geleceği",
+    "headline2": "Güvenal ile Şekilleniyor",
+    "description": "Sanayi devriminin Türkiye'deki güçlü temsilcisi Güvenal Makina ile tanışın, üretimde fark yaratın! Güvenal Makina olarak, talaşlı imalat sektöründe güvenilir ve yenilikçi çözümler sunuyoruz. 40 yılı aşkın deneyimimizle, müşterilerimizin ihtiyaçlarını derinlemesine analiz ediyor ve en uygun çözümleri geliştiriyoruz.",
+    "exploreProducts": "Ürünlerimizi İnceleyin",
+    "contactUs": "İletişime Geçin",
+    "productDetails": "Ürün detayları için tıklayın.",
+    "productShowcase": "Ürün Vitrini",
+    "slide1": {
+      "title": "Endüstriyel Çözümler",
+      "subtitle": "Kalıpçı Freze Tezgahları",
+      "description": "Modern üretim ihtiyaçlarınız için yüksek kaliteli endüstriyel makineler."
+    },
+    "slide2": {
+      "title": "Profesyonel Ekipmanlar",
+      "subtitle": "Dalma Erozyon Tezgahları",
+      "description": "Endüstriyel üretimde maksimum verimlilik için tasarlanmış çözümler."
+    },
+    "navigation": {
+      "previous": "Önceki",
+      "next": "Sonraki"
+    }
+  },
+  "brandSlider": {
+    "ourBrands": "Markalarımız"
+  },
+  "careerSection": {
+    "title": "Kariyer",
+    "titleHighlight": "Fırsatları",
+    "description": "Güvenal Makina'da kariyer fırsatları ve açık pozisyonlar hakkında bilgi alın",
+    "viewPositions": "Açık Pozisyonları İncele",
+    "imageAlt": "Kariyer Fırsatları",
+    "benefits": {
+      "development": {
+        "title": "Sürekli Gelişim",
+        "description": "Profesyonel gelişim programları ve eğitim fırsatları"
+      },
+      "environment": {
+        "title": "Dinamik Ortam",
+        "description": "Yenilikçi ve teknoloji odaklı çalışma kültürü"
+      },
+      "benefits": {
+        "title": "Sosyal Haklar",
+        "description": "Rekabetçi maaş ve kapsamlı yan haklar paketi"
+      },
+      "teamwork": {
+        "title": "Takım Ruhu",
+        "description": "Destekleyici ve işbirlikçi çalışma ortamı"
+      }
+    }
+  },
+  "corporateSection": {
+    "title": "Güvenal Makina –",
+    "titleHighlight": "Güvenal Group'un Güçlü Markası",
+    "description1": "Güvenal Makina, Güvenal Group bünyesinde faaliyet gösteren ve takım tezgahları sektöründe öncü çözümler sunan bir markadır. 40 yılı aşkın deneyimimiz ve 150 kişilik uzman ekibimizle, sanayi üretimine yüksek kalite, yenilikçi teknoloji ve verimli çözümler sunuyoruz.",
+    "description2": "22 yıldır üniversal takım tezgahları ve CNC makinaları satışıyla müşterilerimizin üretim gücünü artırıyoruz. Müşterilerimize yalnızca satış sürecinde değil, 7/24 teknik servis desteği ve orijinal yedek parça temini ile de kesintisiz hizmet sunuyoruz.",
+    "stats": {
+      "experience": {
+        "value": "40+",
+        "label": "Yıllık Tecrübe"
+      },
+      "team": {
+        "value": "150+",
+        "label": "Uzman Ekip"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Teknik Destek"
+      }
+    },
+    "imageAlt": "Güvenal Makina",
+    "features": {
+      "team": {
+        "title": "150 Kişilik Uzman Kadro",
+        "description": "150 kişilik uzman kadro ile güçlü üretim kapasitesi"
+      },
+      "experience": {
+        "title": "22 Yıllık Deneyim",
+        "description": "Üniversal takım tezgahları ve CNC makinalarında 22 yıllık deneyim"
+      },
+      "service": {
+        "title": "Kesintisiz Hizmet",
+        "description": "7/24 teknik servis desteği ve yedek parça tedariki"
+      }
+    },
+    "cta": "Güvenal Makina ile üretiminize güç katın, geleceğe güvenle ilerleyin!"
+  },
+  "productsSection": {
+    "title": "Ürün",
+    "titleHighlight": "Kategorilerimiz",
+    "description": "Endüstriyel makina ihtiyaçlarınız için geniş ürün yelpazemiz ile hizmetinizdeyiz",
+    "allCategories": "Tüm Kategoriler",
+    "cncMachiningCenters": "CNC Dik İşleme Merkezleri",
+    "edmMachines": "Dalma Erozyon Tezgahları",
+    "moldMillingMachines": "Kalıpçı Freze Tezgahları",
+    "universalMillingMachines": "Üniversal Kalıpçı Freze Tezgahları",
+    "ramTypeUniversalMill": "Koç Kafa Universal Freze",
+    "grindingMachines": "Taşlama Tezgahları",
+    "lathes": "Torna Tezgahları",
+    "benchtopLathes": "Masa Üstü Torna Tezgahları",
+    "radialDrills": "Radyal Matkap Tezgahları",
+    "columnDrills": "Şanzımanlı & Kayışlı Sütunlu Matkaplar",
+    "bandSaws": "Şerit Testere Makineleri",
+    "tappingMachines": "Kılavuz Çekme Tezgahları",
+    "machineAccessories": "Makina Aksesuarları",
+    "viewDetails": "Detaylı İncele",
+    "emptyCategory": "Bu kategoride ürün bulunmamaktadır",
+    "viewAllProducts": "Tüm Ürünlerimizi İnceleyin"
+  }
+} 
